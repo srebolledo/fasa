@@ -1,0 +1,16 @@
+/** Paging **/
+div.paging {
+	background:#fff;
+	color: #ccc;
+	margin-top: 1em;
+	clear:both;
+}
+div.paging span.disabled {
+	color: #ddd;
+	display: inline;
+}
+div.paging span.current {
+	color: #c73e14;
+}
+div.paging span a {
+}

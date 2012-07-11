@@ -1,0 +1,50 @@
+/*
+ *   Base styles (resets all elements and sets defaults)
+ *   Don't customize this file!
+ *
+ */
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	/*background: white;*/
+}
+
+table,thead,tbody,tfoot,th,tr,td {
+	margin: 0px;
+	padding: 0px;
+	border-width: 0px;
+	border-style: none;
+	border-collapse: collapse;
+}
+
+h1,h2,p,span {
+	margin: 0px;
+	padding: 0px;
+	border-width: 0px;
+	border-style: none;
+}
+
+img {
+	margin: 0px;
+	padding: 0px;
+	border-width: 0px;
+	border-style: none;
+}
+
+form,fieldset,label,input,select,textarea,button {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+div,iframe {
+	margin: 0px;
+	padding: 0px;
+	border-width: 0px;
+	border-style: none;
+}
+

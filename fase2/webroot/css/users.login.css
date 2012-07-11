@@ -1,0 +1,25 @@
+label{
+	color:white;
+}
+
+input{
+	width:150px;
+}
+
+.hilite{
+	background-color: blue;
+
+
+}
+#login-title{
+	font-size:60px;
+	float:left;
+	margin-left:15%;
+	padding-right:2%;
+	border-width:0px 1px 0px 0px;
+	border-color:white;
+	border-style:solid;
+
+
+
+}

@@ -1,0 +1,66 @@
+@import url('common.css');
+
+a {
+	color: #003D4C;
+	text-decoration: underline;
+	font-weight: bold;
+}
+a:hover {
+	color: #367889;
+	text-decoration:none;
+}
+a img {
+	border:none;
+}
+h1, h2, h3, h4 {
+	font-weight: normal;
+	margin-bottom:0.5em;
+}
+h1 {
+	color: #003d4c;
+	font-size: 100%;
+}
+h2 {
+	color: #e32;
+	font-family:'Gill Sans','lucida grande', helvetica, arial, sans-serif;
+	font-size: 190%;
+}
+h3 {
+	color: #993;
+	font-family:'Gill Sans','lucida grande', helvetica, arial, sans-serif;
+	font-size: 165%;
+}
+h4 {
+	color: #993;
+	font-weight: normal;
+}
+ul, li {
+	margin: 0 12px;
+}
+
+#menu{
+	clear:left;
+	float:left;
+	width:18%;
+}
+
+.infoUsuario{
+	float:right;
+	clear:both;
+	
+
+}
+
+#header{
+	height:auto;
+}
+
+#contenido{
+	width:100%;
+	margin-top:100px;
+
+}
+
+
+
+

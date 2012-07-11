@@ -1,0 +1,18 @@
+@import url('common.index.css');
+
+#box label{
+	font-weight: bolder;
+	display: block;
+	margin-top:10px;
+}
+#box a{
+		background: -moz-linear-gradient(center top , #F1F1D4, #E6E49F) repeat scroll 0 0 #E6E49F;
+    border: 1px solid #AAAC62;
+    border-radius: 8px 8px 8px 8px;
+    color: #333333;
+    font-weight: normal;
+    min-width: 0;
+    padding: 4px 8px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #FFFFFF;
+}

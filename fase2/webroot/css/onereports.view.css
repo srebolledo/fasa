@@ -1,0 +1,10 @@
+@import url('common.index.css');
+
+#box label{
+	font-weight: bolder;
+	display: block;
+	margin-top:10px;
+	
+
+}
+

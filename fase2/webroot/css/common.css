@@ -1,0 +1,40 @@
+#leftside{
+		clear: left;
+    display: inline;
+    float: left;
+    width: 49%;
+}
+
+#box{
+		display: inline-block;
+    height: auto;
+    margin-top: 20px;
+    width: 100%;
+}
+
+#rightside{
+ 		display: inline;
+    float: right;
+    width: 49%;
+}
+
+div.form,
+div.index,
+div.view {
+
+	width:98%;
+}
+label{
+	display:block;
+
+}
+
+h1.title{
+	background-color:black;
+	line-height:50px;
+	font-size:15px;
+	color:white;
+	font-weight:bolder;
+	position:relative;
+}
+

@@ -1,0 +1,17 @@
+body{
+	background-color:white;
+	
+}
+
+div#menu,div#header,div#headContent,div#footer{
+	display:none;
+	visibility:hidden;
+}
+div#content{
+	width:100%;
+	border:none;
+}
+div#tabs-1,div#tabs-2,div#tabs-3{
+	page-break-after:always;
+}
+
